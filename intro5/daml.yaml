@@ -1,0 +1,10 @@
+sdk-version: 2.7.0
+name: intro5
+source: daml
+version: 1.0.0
+dependencies:
+  - daml-prim
+  - daml-stdlib
+  - daml-script
+sandbox-options:
+  - --wall-clock-time
