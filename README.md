@@ -3,5 +3,5 @@
 Just clone it
 
 ```bash
-git clone git remote add origin git@github.com:pierreneter/daml-intro-mono.git
+git clone git@github.com:pierreneter/daml-intro-mono.git
 ```
